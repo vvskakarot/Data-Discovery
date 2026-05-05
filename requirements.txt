@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+faker
+python-dotenv
+openai
